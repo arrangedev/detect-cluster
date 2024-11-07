@@ -1,6 +1,15 @@
-## Detect Cluster
+<h1 align="center">Detect Cluster</h1>
+<div align="center">
+  <h3>Get the current SVM cluster name with an RPC endpoint.</h3>
+</div>
+<div align="center">
+  <img src="https://badgen.net/badge/version/1.0.0/orange">
+  <a href="https://www.npmjs.com/package/@arrangedev/detect-cluster" target="_blank">
+    <img src="https://img.shields.io/npm/v/@arrangedev/detect-cluster">
+  </a>
+</div>
 
-Use an RPC endpoint to determine what SVM cluster you're on.
+<br></br>
 
 ## Supported Clusters
 
@@ -15,8 +24,13 @@ Use an RPC endpoint to determine what SVM cluster you're on.
 
 ## Installation
 
+Install via your favorite package manager:
 ```sh
 npm install @arrangedev/detect-cluster
+```
+Additionally, you can load the source code via unpkg:
+```
+https://unpkg.com/@joeymeere/dreamcast@latest
 ```
 
 ## Usage
