@@ -1,6 +1,6 @@
 {
   "name": "@arrangedev/detect-cluster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the current SVM cluster you're on",
   "main": "src/index.ts",
   "scripts": {
